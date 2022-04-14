@@ -17,9 +17,8 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 
 
-![Metrics](/github-metrics.svg)
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 
 ### 앞으로 공부할 것들
 -  데이터 기반 의사결정 위한 정량 수치 정의
