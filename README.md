@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=Unity&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ECLIPSE IDE-2C2255?style=flat-square&logo=SQLite&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R studio-75AADB?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
@@ -22,6 +24,7 @@
 
 ### 앞으로 공부할 것들
 -  데이터 기반 의사결정 위한 정량 수치 정의
+-  javascript 학습
 -  Python, SQL 등을 사용한 데이터 전처리, 분석 경험
 -  REACT NATIVE를 이용한 애플리케이션 개발
 -  SWIFT로 IOS 앱 개발
