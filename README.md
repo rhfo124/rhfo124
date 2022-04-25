@@ -5,7 +5,7 @@
 - 깃헙: https://github.com/rhfo124  
 
 ## Summary
-> 저는 Ios 개발자가 되기 위해 달려가고 있으며 react native와 kotlin에 관심을 가지고 공부하고 있으며 이후 swift도 학습하여 내년 상반기에 취업하고 싶습니다.
+> 저는 프론트앤드 및 Ios 개발자가 되기 위해 달려가고 있으며 현재는 JavaScript와 Html에 관심을 가지고 공부하고 있으며 이후 react native와 kotlin, swift를 학습하여 여러 프로젝트를 경험하고 새로운 도전 및 성장을 위해 내년 상반기에 취업하고 싶습니다.
 
 
 ## Skill
@@ -25,6 +25,7 @@
 ### 앞으로 공부할 것들
 -  데이터 기반 의사결정 위한 정량 수치 정의
 -  javascript 학습
+-  Hakker Rank, 프로그래머스에서 알고리즘 문제 풀기
 -  Python, SQL 등을 사용한 데이터 전처리, 분석 경험
 -  REACT NATIVE를 이용한 애플리케이션 개발
 -  SWIFT로 IOS 앱 개발
