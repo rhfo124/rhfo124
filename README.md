@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R studio-75AADB?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/React native-61DAFB?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
